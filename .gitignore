@@ -1,0 +1,12 @@
+.classpath
+.DS_Store
+.gradle
+.idea
+.project
+.settings
+.vscode
+local.properties
+build
+captures
+*.iml
+*.apk
